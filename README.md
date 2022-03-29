@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio N. Niño A</h1>
 <h3 align="center">A passionate fullstack developer student from Colombia living in Argentina</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Bootstrap, SASS**
+- 🌱 I’m currently learning **HTML, CSS, SASS**
 
 - 📫 How to reach me **dir.sergio.nino@gmail.com**
 
